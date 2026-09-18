@@ -1,0 +1,8 @@
+cat > sample.txt << 'EOF'
+The quick brown fox jumps over the lazy dog
+This is a test file for learning Linux commands
+We will use this file to explore cat, head, tail, grep, and wc
+Each line teaches us something new
+Linux commands are powerful tools
+They help developers work faster
+Let's experiment and learn 
