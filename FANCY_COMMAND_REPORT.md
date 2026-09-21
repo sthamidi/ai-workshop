@@ -19,7 +19,7 @@ node fancy-command.js <filename>
 - Expected: No content displayed, but shows line count
 
 ## 2. Testing
-
+![Test Output](Screenshot%202026-09-20%20211123.png) 
 ### Test Case 1: Normal file
 - Command: node fancy-command.js test.txt
 - Expected: File contents + line count
